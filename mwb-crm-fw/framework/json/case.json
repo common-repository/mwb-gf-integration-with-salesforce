@@ -1,0 +1,72 @@
+﻿{
+  "0": {
+    "label": "Name",
+    "length": "80",
+    "name": "name",
+    "type": "text",
+    "mandatory": "0"
+  },
+  "1": {
+    "label": "Email",
+    "length": "80",
+    "name": "email",
+    "type": "text",
+    "mandatory": "0"
+  },
+  "2": {
+    "label": "Phone",
+    "length": "40",
+    "name": "phone",
+    "type": "text",
+    "mandatory": "0"
+  },
+  "3": {
+    "label": "Subject",
+    "length": "80",
+    "name": "subject",
+    "type": "text",
+    "mandatory": "0"
+  },
+  "4": {
+    "label": "Description",
+    "length":"",
+    "name": "description",
+    "type": "select",
+    "mandatory": "0"
+  },
+  "5": {
+    "label": "Company",
+    "length": "80",
+    "name": "company",
+    "type": "text",
+    "mandatory": "0"
+  },
+  "6": {
+    "label": "Type",
+    "length":"",
+    "name": "type",
+    "type": "select",
+    "mandatory": "0"
+  },
+  "7": {
+    "label": "Status",
+    "length":"",
+    "name": "status",
+    "type": "select",
+    "mandatory": "0"
+  },
+  "8": {
+    "label": "Case Reason",
+    "length":"",
+    "name": "reason",
+    "type": "select",
+    "mandatory": "0"
+  },
+  "9": {
+    "label": "Priority",
+    "length":"",
+    "name": "priority",
+    "type": "select",
+    "mandatory": "0"
+  }
+}

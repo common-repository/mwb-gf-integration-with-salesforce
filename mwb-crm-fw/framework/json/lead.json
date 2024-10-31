@@ -1,0 +1,170 @@
+﻿{
+  "0": {
+    "label": "First Name",
+    "length": "40",
+    "name": "first_name",
+    "type": "text",
+    "mandatory" : "0"
+  },
+  "1": {
+    "label": "Last Name",
+    "length": "80",
+    "name": "last_name",
+    "type": "text",
+    "mandatory": "1"
+  },
+  "2": {
+    "label": "Email",
+    "length": "80",
+    "name": "email",
+    "type": "text",
+    "mandatory": "1"
+  },
+  "3": {
+    "label": "Company",
+    "length": "40",
+    "name": "company",
+    "type": "text",
+    "mandatory" : "0"
+  },
+  "4": {
+    "label": "City",
+    "length": "40",
+    "name": "city",
+    "type": "text",
+    "mandatory": "0"
+  },
+  "5": {
+    "label": "State/Province",
+    "length": "20",
+    "name": "state",
+    "type": "text",
+    "mandatory":"0"
+  },
+  "6": {
+    "label": "Salutation",
+    "length":"",
+    "name": "salutation",
+    "type": "select",
+    "mandatory": "0"
+  },
+  "7": {
+    "label": "Title",
+    "length": "40",
+    "name": "title",
+    "type": "text",
+    "mandatory": "0"
+  },
+  "8": {
+    "label": "Website",
+    "length": "80",
+    "name": "URL",
+    "type": "text",
+    "mandatory": "0"
+  },
+  "9": {
+    "label": "Phone",
+    "length": "40",
+    "name": "phone",
+    "type": "text",
+    "mandatory": "0"
+  },
+  "10": {
+    "label": "Mobile",
+    "length": "40",
+    "name": "mobile",
+    "type": "text",
+    "mandatory": "0"
+  },
+  "11": {
+    "label": "Fax",
+    "length": "40",
+    "name": "fax",
+    "type": "text",
+    "mandatory": "0"
+  },
+  "12": {
+    "label": "Address",
+    "length":"",
+    "name": "street",
+    "type": "select",
+    "mandatory": "0"
+  },
+  "13": {
+    "label": "Zip",
+    "length": "20",
+    "name": "zip",
+    "type": "text",
+    "mandatory": "0"
+  },
+  "14": {
+    "label": "Country",
+    "length": "40",
+    "name": "country",
+    "type": "text",
+    "mandatory": "0"
+  },
+  "15": {
+    "label": "Description",
+    "length":"",
+    "name": "description",
+    "type": "select",
+    "mandatory":"0"
+  },
+  "16": {
+    "label": "Lead Source",
+    "length":"",
+    "name": "lead_source",
+    "type": "select",
+    "mandatory":"0"
+  },
+  "17": {
+    "label": "Industry",
+    "length":"",
+    "name": "industry",
+    "type": "select",
+    "mandatory":"0"
+  },
+  "18": {
+    "label": "Rating",
+    "length":"",
+    "name": "rating",
+    "type": "select",
+    "mandatory":"0"
+  },
+  "19": {
+    "label": "Annual Revenue",
+    "length":"",
+    "name": "revenue",
+    "type": "text",
+    "mandatory":"0"
+  },
+  "20": {
+    "label": "Employees",
+    "length":"",
+    "name": "employees",
+    "type": "text",
+    "mandatory":"0"
+  },
+  "21": {
+    "label": "Email Opt Out",
+    "length":"",
+    "name": "emailOptOut",
+    "type": "checkbox",
+    "mandatory":"0"
+  },
+  "22": {
+    "label": "Fax Opt Out",
+    "length":"",
+    "name": "faxOptOut",
+    "type": "checkbox",
+    "mandatory":"0"
+  },
+  "23": {
+    "label": "Do Not Call",
+    "length":"",
+    "name": "doNotCall",
+    "type": "checkbox",
+    "mandatory":"0"
+  }
+}
